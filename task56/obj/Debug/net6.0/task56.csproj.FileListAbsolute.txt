@@ -1,0 +1,15 @@
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task56\bin\Debug\net6.0\task56.exe
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task56\bin\Debug\net6.0\task56.deps.json
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task56\bin\Debug\net6.0\task56.runtimeconfig.json
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task56\bin\Debug\net6.0\task56.dll
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task56\bin\Debug\net6.0\task56.pdb
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task56\obj\Debug\net6.0\task56.csproj.AssemblyReference.cache
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task56\obj\Debug\net6.0\task56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task56\obj\Debug\net6.0\task56.AssemblyInfoInputs.cache
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task56\obj\Debug\net6.0\task56.AssemblyInfo.cs
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task56\obj\Debug\net6.0\task56.csproj.CoreCompileInputs.cache
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task56\obj\Debug\net6.0\task56.dll
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task56\obj\Debug\net6.0\refint\task56.dll
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task56\obj\Debug\net6.0\task56.pdb
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task56\obj\Debug\net6.0\task56.genruntimeconfig.cache
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task56\obj\Debug\net6.0\ref\task56.dll

@@ -1,0 +1,15 @@
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task61(addition)\bin\Debug\net6.0\task61(addition).exe
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task61(addition)\bin\Debug\net6.0\task61(addition).deps.json
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task61(addition)\bin\Debug\net6.0\task61(addition).runtimeconfig.json
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task61(addition)\bin\Debug\net6.0\task61(addition).dll
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task61(addition)\bin\Debug\net6.0\task61(addition).pdb
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task61(addition)\obj\Debug\net6.0\task61(addition).csproj.AssemblyReference.cache
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task61(addition)\obj\Debug\net6.0\task61(addition).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task61(addition)\obj\Debug\net6.0\task61(addition).AssemblyInfoInputs.cache
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task61(addition)\obj\Debug\net6.0\task61(addition).AssemblyInfo.cs
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task61(addition)\obj\Debug\net6.0\task61(addition).csproj.CoreCompileInputs.cache
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task61(addition)\obj\Debug\net6.0\task61(addition).dll
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task61(addition)\obj\Debug\net6.0\refint\task61(addition).dll
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task61(addition)\obj\Debug\net6.0\task61(addition).pdb
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task61(addition)\obj\Debug\net6.0\task61(addition).genruntimeconfig.cache
+C:\Users\Home-PC\Лекции, семинары\3 Знакомство с языками программирования (C#)\Семинары, дз\home_work_8\task61(addition)\obj\Debug\net6.0\ref\task61(addition).dll
